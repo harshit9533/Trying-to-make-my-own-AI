@@ -1,0 +1,590 @@
+{
+    "google chrome": {
+        "display_name": "Google Chrome",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk"
+    },
+    "google drive": {
+        "display_name": "Google Drive",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Drive.lnk"
+    },
+    "immersive control panel": {
+        "display_name": "Immersive Control Panel",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Immersive Control Panel.lnk"
+    },
+    "microsoft edge": {
+        "display_name": "Microsoft Edge",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk"
+    },
+    "ppsspp": {
+        "display_name": "PPSSPP",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PPSSPP.lnk"
+    },
+    "sublime text": {
+        "display_name": "Sublime Text",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Sublime Text.lnk"
+    },
+    "visual studio installer": {
+        "display_name": "Visual Studio Installer",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Installer.lnk"
+    },
+    "7-zip file manager": {
+        "display_name": "7-Zip File Manager",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip\\7-Zip File Manager.lnk"
+    },
+    "7-zip help": {
+        "display_name": "7-Zip Help",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip\\7-Zip Help.lnk"
+    },
+    "speech recognition": {
+        "display_name": "Speech Recognition",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Speech Recognition.lnk"
+    },
+    "math input panel": {
+        "display_name": "Math Input Panel",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Math Input Panel.lnk"
+    },
+    "notepad": {
+        "display_name": "Notepad",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Notepad.lnk"
+    },
+    "paint": {
+        "display_name": "Paint",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Paint.lnk"
+    },
+    "quick assist": {
+        "display_name": "Quick Assist",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Quick Assist.lnk"
+    },
+    "remote desktop connection": {
+        "display_name": "Remote Desktop Connection",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Remote Desktop Connection.lnk"
+    },
+    "snipping tool": {
+        "display_name": "Snipping Tool",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Snipping Tool.lnk"
+    },
+    "steps recorder": {
+        "display_name": "Steps Recorder",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Steps Recorder.lnk"
+    },
+    "windows fax and scan": {
+        "display_name": "Windows Fax and Scan",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Fax and Scan.lnk"
+    },
+    "windows media player": {
+        "display_name": "Windows Media Player",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Media Player.lnk"
+    },
+    "wordpad": {
+        "display_name": "Wordpad",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Wordpad.lnk"
+    },
+    "component services": {
+        "display_name": "Component Services",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Component Services.lnk"
+    },
+    "computer management": {
+        "display_name": "Computer Management",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Computer Management.lnk"
+    },
+    "dfrgui": {
+        "display_name": "dfrgui",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\dfrgui.lnk"
+    },
+    "disk cleanup": {
+        "display_name": "Disk Cleanup",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Disk Cleanup.lnk"
+    },
+    "event viewer": {
+        "display_name": "Event Viewer",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Event Viewer.lnk"
+    },
+    "iscsi initiator": {
+        "display_name": "iSCSI Initiator",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\iSCSI Initiator.lnk"
+    },
+    "memory diagnostics tool": {
+        "display_name": "Memory Diagnostics Tool",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Memory Diagnostics Tool.lnk"
+    },
+    "odbc data sources (32-bit)": {
+        "display_name": "ODBC Data Sources (32-bit)",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (32-bit).lnk"
+    },
+    "odbc data sources (64-bit)": {
+        "display_name": "ODBC Data Sources (64-bit)",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (64-bit).lnk"
+    },
+    "performance monitor": {
+        "display_name": "Performance Monitor",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Performance Monitor.lnk"
+    },
+    "print management": {
+        "display_name": "Print Management",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Print Management.lnk"
+    },
+    "recoverydrive": {
+        "display_name": "RecoveryDrive",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\RecoveryDrive.lnk"
+    },
+    "registry editor": {
+        "display_name": "Registry Editor",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Registry Editor.lnk"
+    },
+    "resource monitor": {
+        "display_name": "Resource Monitor",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Resource Monitor.lnk"
+    },
+    "security configuration management": {
+        "display_name": "Security Configuration Management",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Security Configuration Management.lnk"
+    },
+    "services": {
+        "display_name": "services",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\services.lnk"
+    },
+    "system configuration": {
+        "display_name": "System Configuration",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Configuration.lnk"
+    },
+    "system information": {
+        "display_name": "System Information",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Information.lnk"
+    },
+    "task scheduler": {
+        "display_name": "Task Scheduler",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Task Scheduler.lnk"
+    },
+    "windows defender firewall with advanced security": {
+        "display_name": "Windows Defender Firewall with Advanced Security",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Windows Defender Firewall with Advanced Security.lnk"
+    },
+    "android studio": {
+        "display_name": "Android Studio",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Android Studio\\Android Studio.lnk"
+    },
+    "anydesk": {
+        "display_name": "AnyDesk",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AnyDesk\\AnyDesk.lnk"
+    },
+    "uninstall anydesk": {
+        "display_name": "Uninstall AnyDesk",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AnyDesk\\Uninstall AnyDesk.lnk"
+    },
+    "dell audio": {
+        "display_name": "Dell Audio",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Dell\\Dell Audio.lnk"
+    },
+    "google play games": {
+        "display_name": "Google Play Games",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Play Games\\Google Play Games.lnk"
+    },
+    "about java": {
+        "display_name": "About Java",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\About Java.lnk"
+    },
+    "check for updates": {
+        "display_name": "Check For Updates",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Check For Updates.lnk"
+    },
+    "configure java": {
+        "display_name": "Configure Java",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Configure Java.lnk"
+    },
+    "access 2013": {
+        "display_name": "Access 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Access 2013.lnk"
+    },
+    "excel 2013": {
+        "display_name": "Excel 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Excel 2013.lnk"
+    },
+    "infopath designer 2013": {
+        "display_name": "InfoPath Designer 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\InfoPath Designer 2013.lnk"
+    },
+    "infopath filler 2013": {
+        "display_name": "InfoPath Filler 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\InfoPath Filler 2013.lnk"
+    },
+    "lync 2013": {
+        "display_name": "Lync 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Lync 2013.lnk"
+    },
+    "onenote 2013": {
+        "display_name": "OneNote 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\OneNote 2013.lnk"
+    },
+    "outlook 2013": {
+        "display_name": "Outlook 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Outlook 2013.lnk"
+    },
+    "powerpoint 2013": {
+        "display_name": "PowerPoint 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\PowerPoint 2013.lnk"
+    },
+    "publisher 2013": {
+        "display_name": "Publisher 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Publisher 2013.lnk"
+    },
+    "send to onenote 2013": {
+        "display_name": "Send to OneNote 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Send to OneNote 2013.lnk"
+    },
+    "skydrive pro 2013": {
+        "display_name": "SkyDrive Pro 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\SkyDrive Pro 2013.lnk"
+    },
+    "word 2013": {
+        "display_name": "Word 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Word 2013.lnk"
+    },
+    "myrecover": {
+        "display_name": "MyRecover",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MyRecover\\MyRecover.lnk"
+    },
+    "uninstall myrecover": {
+        "display_name": "Uninstall MyRecover",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MyRecover\\Uninstall MyRecover.lnk"
+    },
+    "pycharm 2026.1": {
+        "display_name": "PyCharm 2026.1",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PyCharm\\PyCharm 2026.1.lnk"
+    },
+    "riot client": {
+        "display_name": "Riot Client",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Riot Games\\Riot Client.lnk"
+    },
+    "steam": {
+        "display_name": "Steam",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk"
+    },
+    "task manager": {
+        "display_name": "Task Manager",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Task Manager.lnk"
+    },
+    "documentation": {
+        "display_name": "Documentation",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\Documentation.lnk"
+    },
+    "release notes": {
+        "display_name": "Release Notes",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\Release Notes.lnk"
+    },
+    "videolan website": {
+        "display_name": "VideoLAN Website",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VideoLAN Website.lnk"
+    },
+    "vlc media player - reset preferences and cache files": {
+        "display_name": "VLC media player - reset preferences and cache files",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player - reset preferences and cache files.lnk"
+    },
+    "vlc media player skinned": {
+        "display_name": "VLC media player skinned",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player skinned.lnk"
+    },
+    "vlc media player": {
+        "display_name": "VLC media player",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player.lnk"
+    },
+    "windows powershell ise (x86)": {
+        "display_name": "Windows PowerShell ISE (x86)",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE (x86).lnk"
+    },
+    "windows powershell ise": {
+        "display_name": "Windows PowerShell ISE",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE.lnk"
+    },
+    "console rar manual": {
+        "display_name": "Console RAR manual",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\Console RAR manual.lnk"
+    },
+    "what is new in the latest version": {
+        "display_name": "What is new in the latest version",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\What is new in the latest version.lnk"
+    },
+    "winrar help": {
+        "display_name": "WinRAR help",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR help.lnk"
+    },
+    "winrar": {
+        "display_name": "WinRAR",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR.lnk"
+    },
+    "character map": {
+        "display_name": "Character Map",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\System Tools\\Character Map.lnk"
+    },
+    "grand theft auto - vice city (save editor)": {
+        "display_name": "Grand Theft Auto - Vice City (Save Editor)",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MagiPacks\\Grand Theft Auto - Vice City\\Grand Theft Auto - Vice City (Save Editor).lnk"
+    },
+    "grand theft auto - vice city": {
+        "display_name": "Grand Theft Auto - Vice City",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MagiPacks\\Grand Theft Auto - Vice City\\Grand Theft Auto - Vice City.lnk"
+    },
+    "database compare 2013": {
+        "display_name": "Database Compare 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Office 2013 Tools\\Database Compare 2013.lnk"
+    },
+    "lync recording manager": {
+        "display_name": "Lync Recording Manager",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Office 2013 Tools\\Lync Recording Manager.lnk"
+    },
+    "office 2013 language preferences": {
+        "display_name": "Office 2013 Language Preferences",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Office 2013 Tools\\Office 2013 Language Preferences.lnk"
+    },
+    "office 2013 upload center": {
+        "display_name": "Office 2013 Upload Center",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Office 2013 Tools\\Office 2013 Upload Center.lnk"
+    },
+    "spreadsheet compare 2013": {
+        "display_name": "Spreadsheet Compare 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Office 2013 Tools\\Spreadsheet Compare 2013.lnk"
+    },
+    "telemetry dashboard for office 2013": {
+        "display_name": "Telemetry Dashboard for Office 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Office 2013 Tools\\Telemetry Dashboard for Office 2013.lnk"
+    },
+    "telemetry log for office 2013": {
+        "display_name": "Telemetry Log for Office 2013",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Office 2013 Tools\\Telemetry Log for Office 2013.lnk"
+    },
+    "pcsx2": {
+        "display_name": "PCSX2",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PCSX2\\PCSX2\\PCSX2.lnk"
+    },
+    "uninstall pcsx2": {
+        "display_name": "Uninstall PCSX2",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PCSX2\\PCSX2\\Uninstall PCSX2.lnk"
+    },
+    "wondershare dr.fone": {
+        "display_name": "Wondershare Dr.Fone",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Wondershare\\Dr.Fone\\Wondershare Dr.Fone.lnk"
+    },
+    "wondershare recoverit": {
+        "display_name": "Wondershare Recoverit",
+        "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Wondershare\\Recoverit\\Wondershare Recoverit.lnk"
+    },
+    "canva": {
+        "display_name": "Canva",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Canva.lnk"
+    },
+    "lively wallpaper": {
+        "display_name": "Lively Wallpaper",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Lively Wallpaper.lnk"
+    },
+    "onedrive": {
+        "display_name": "OneDrive",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\OneDrive.lnk"
+    },
+    "tor browser": {
+        "display_name": "Tor Browser",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Tor Browser.lnk"
+    },
+    "webcatalog": {
+        "display_name": "WebCatalog",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WebCatalog.lnk"
+    },
+    "magnify": {
+        "display_name": "Magnify",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Magnify.lnk"
+    },
+    "narrator": {
+        "display_name": "Narrator",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Narrator.lnk"
+    },
+    "on-screen keyboard": {
+        "display_name": "On-Screen Keyboard",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\On-Screen Keyboard.lnk"
+    },
+    "internet explorer": {
+        "display_name": "Internet Explorer",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Internet Explorer.lnk"
+    },
+    "youtube": {
+        "display_name": "YouTube",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Chrome Apps\\YouTube.lnk"
+    },
+    "big box": {
+        "display_name": "Big Box",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\LaunchBox\\Big Box.lnk"
+    },
+    "launchbox": {
+        "display_name": "LaunchBox",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\LaunchBox\\LaunchBox.lnk"
+    },
+    "uninstall launchbox": {
+        "display_name": "Uninstall LaunchBox",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\LaunchBox\\Uninstall LaunchBox.lnk"
+    },
+    "ldmultiplayer": {
+        "display_name": "LDMultiPlayer",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\LDMultiPlayer\\LDMultiPlayer.lnk"
+    },
+    "ldplayer": {
+        "display_name": "LDPlayer",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\LDPlayer\\LDPlayer.lnk"
+    },
+    "lduninstaller": {
+        "display_name": "LDUninstaller",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\LDPlayer\\LDUninstaller.lnk"
+    },
+    "ldplayer 9": {
+        "display_name": "LDPlayer 9",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\LDPlayer 9\\LDPlayer 9.lnk"
+    },
+    "ldplayer4": {
+        "display_name": "LDPlayer4",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\LDPlayer4\\LDPlayer4.lnk"
+    },
+    "lduninstaller4": {
+        "display_name": "LDUninstaller4",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\LDPlayer4\\LDUninstaller4.lnk"
+    },
+    "mega website": {
+        "display_name": "MEGA Website",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MEGAsync\\MEGA Website.lnk"
+    },
+    "megasync": {
+        "display_name": "MEGAsync",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MEGAsync\\MEGAsync.lnk"
+    },
+    "uninstall": {
+        "display_name": "Uninstall",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MEGAsync\\Uninstall.lnk"
+    },
+    "mumu multiplayer 12": {
+        "display_name": "MuMu MultiPlayer 12",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MuMu Player 12\\MuMu MultiPlayer 12.lnk"
+    },
+    "mumu player 12": {
+        "display_name": "MuMu Player 12",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MuMu Player 12\\MuMu Player 12.lnk"
+    },
+    "manual": {
+        "display_name": "Manual",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Netwide Assembler 2.16.03\\Manual.lnk"
+    },
+    "nasm-shell": {
+        "display_name": "nasm-shell",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Netwide Assembler 2.16.03\\nasm-shell.lnk"
+    },
+    "nasm": {
+        "display_name": "nasm",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Netwide Assembler 2.16.03\\nasm.lnk"
+    },
+    "nmap - zenmap gui": {
+        "display_name": "Nmap - Zenmap GUI",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Nmap\\Nmap - Zenmap GUI.lnk"
+    },
+    "idle (python 3.12 64-bit)": {
+        "display_name": "IDLE (Python 3.12 64-bit)",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.12\\IDLE (Python 3.12 64-bit).lnk"
+    },
+    "python 3.12 (64-bit)": {
+        "display_name": "Python 3.12 (64-bit)",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.12\\Python 3.12 (64-bit).lnk"
+    },
+    "python 3.12 manuals (64-bit)": {
+        "display_name": "Python 3.12 Manuals (64-bit)",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.12\\Python 3.12 Manuals (64-bit).lnk"
+    },
+    "python 3.12 module docs (64-bit)": {
+        "display_name": "Python 3.12 Module Docs (64-bit)",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.12\\Python 3.12 Module Docs (64-bit).lnk"
+    },
+    "user documentation": {
+        "display_name": "User documentation",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\QEMU\\User documentation.lnk"
+    },
+    "roblox studio": {
+        "display_name": "Roblox Studio",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Roblox\\Roblox Studio.lnk"
+    },
+    "rpcs3": {
+        "display_name": "RPCS3",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\RPCS3\\RPCS3.lnk"
+    },
+    "san andreas multiplayer": {
+        "display_name": "San Andreas Multiplayer",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\San Andreas Multiplayer\\San Andreas Multiplayer.lnk"
+    },
+    "steamtools": {
+        "display_name": "SteamTools",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\SteamTools\\SteamTools.lnk"
+    },
+    "uninstall steamtools": {
+        "display_name": "Uninstall SteamTools",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\SteamTools\\Uninstall SteamTools.lnk"
+    },
+    "stremio": {
+        "display_name": "Stremio",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Stremio\\Stremio.lnk"
+    },
+    "uninstall stremio": {
+        "display_name": "Uninstall Stremio",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Stremio\\Uninstall Stremio.lnk"
+    },
+    "administrative tools": {
+        "display_name": "Administrative Tools",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Administrative Tools.lnk"
+    },
+    "command prompt": {
+        "display_name": "Command Prompt",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt.lnk"
+    },
+    "computer": {
+        "display_name": "computer",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\computer.lnk"
+    },
+    "control panel": {
+        "display_name": "Control Panel",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Control Panel.lnk"
+    },
+    "file explorer": {
+        "display_name": "File Explorer",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\File Explorer.lnk"
+    },
+    "run": {
+        "display_name": "Run",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Run.lnk"
+    },
+    "terabox": {
+        "display_name": "TeraBox",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\TeraBox\\TeraBox.lnk"
+    },
+    "uninstallterabox": {
+        "display_name": "UninstallTeraBox",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\TeraBox\\UninstallTeraBox.lnk"
+    },
+    "visual studio code": {
+        "display_name": "Visual Studio Code",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk"
+    },
+    "voice.ai - voice changer": {
+        "display_name": "Voice.ai - Voice Changer",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Voice ai\\Voice.ai - Voice Changer.lnk"
+    },
+    "diksha": {
+        "display_name": "DIKSHA",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WebCatalog Apps\\DIKSHA.lnk"
+    },
+    "windows powershell (x86)": {
+        "display_name": "Windows PowerShell (x86)",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell (x86).lnk"
+    },
+    "windows powershell": {
+        "display_name": "Windows PowerShell",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell.lnk"
+    },
+    "uninstall zoom workplace": {
+        "display_name": "Uninstall Zoom Workplace",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Zoom\\Uninstall Zoom Workplace.lnk"
+    },
+    "zoom workplace": {
+        "display_name": "Zoom Workplace",
+        "path": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Zoom\\Zoom Workplace.lnk"
+    }
+}
